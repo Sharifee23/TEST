@@ -1,0 +1,14 @@
+C:\Users\LG\Desktop\TEST\bin\Debug\net7.0\TEST.exe
+C:\Users\LG\Desktop\TEST\bin\Debug\net7.0\TEST.deps.json
+C:\Users\LG\Desktop\TEST\bin\Debug\net7.0\TEST.runtimeconfig.json
+C:\Users\LG\Desktop\TEST\bin\Debug\net7.0\TEST.dll
+C:\Users\LG\Desktop\TEST\bin\Debug\net7.0\TEST.pdb
+C:\Users\LG\Desktop\TEST\obj\Debug\net7.0\TEST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LG\Desktop\TEST\obj\Debug\net7.0\TEST.AssemblyInfoInputs.cache
+C:\Users\LG\Desktop\TEST\obj\Debug\net7.0\TEST.AssemblyInfo.cs
+C:\Users\LG\Desktop\TEST\obj\Debug\net7.0\TEST.csproj.CoreCompileInputs.cache
+C:\Users\LG\Desktop\TEST\obj\Debug\net7.0\TEST.dll
+C:\Users\LG\Desktop\TEST\obj\Debug\net7.0\refint\TEST.dll
+C:\Users\LG\Desktop\TEST\obj\Debug\net7.0\TEST.pdb
+C:\Users\LG\Desktop\TEST\obj\Debug\net7.0\TEST.genruntimeconfig.cache
+C:\Users\LG\Desktop\TEST\obj\Debug\net7.0\ref\TEST.dll
